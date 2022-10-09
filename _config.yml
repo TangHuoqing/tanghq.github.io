@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huoqing Tang"
-description              : "School of Finance, Renmin University of China."
+title                    : "唐火青 Huoqing Tang"
+description              : "中国人民大学财政金融学院 金融学博士"
 repository               : "tanghuoqing.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Huoqing Tang 唐火青"
+  name             : "唐火青 Huoqing Tang"
   avatar           : "images/wechat.png"
-  bio              : "Renmin University of China"
+  bio              : "School of Finance, Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
