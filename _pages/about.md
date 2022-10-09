@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-就读于中国人民大学财政金融学院，研究方向为货币政策、金融化等，指导老师为张成思教授。目前已经在Pacific-Basin Finance Journal、International Review of Economics and Finance、《金融研究》、《管理科学学报》、《经济学动态》等期刊发表学术论文，另有数篇论文在国内外期刊投稿或修改。详见个人主页（ https://tanghuoqing.github.io/ ），联系方式：tanghuoqing@ruc.edu.cn。
+就读于中国人民大学财政金融学院，研究方向为货币政策、金融化等，指导老师为张成思教授。目前已经在Pacific-Basin Finance Journal、International Review of Economics and Finance、《金融研究》、《管理科学学报》、《经济学动态》等期刊发表学术论文，另有数篇论文在国内外期刊投稿或修改。详见[个人主页](https://tanghuoqing.github.io/)或[谷歌学术页](https://scholar.google.com/citations?user=5RDhlvgAAAAJ)，联系方式：tanghuoqing@ruc.edu.cn。
 
 
 
