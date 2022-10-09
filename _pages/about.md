@@ -31,9 +31,9 @@ redirect_from:
 
 - “货币政策冲击对实体企业投资选择影响的‘宿醉效应’”，（与张成思、陈贞竹），《金融研究》，2022，第9期（刊首文）。
 
-- “融资约束与实体企业金融化”，（与周弘、张成思），《管理科学学报》，2020，第12期。   [**paper**](http://jmsc.tju.edu.cn/jmsc/article/abstract/20201207?st=article_issue）
+- “融资约束与实体企业金融化”，（与周弘、张成思），《管理科学学报》，2020，第12期。   [**paper**](http://jmsc.tju.edu.cn/jmsc/article/abstract/20201207?st=article_issue)
 
-- “金融化学说研究新进展”，（与张成思、贾翔夫），《经济学动态》，2020，第12期。   [**paper**](http://www.jjxdt.org/Magazine/GetIssueContentList?Issue=12&Year=2020&pagesize=50）
+- “金融化学说研究新进展”，（与张成思、贾翔夫），《经济学动态》，2020，第12期。   [**paper**](http://www.jjxdt.org/Magazine/GetIssueContentList?Issue=12&Year=2020&pagesize=50)
 
 - “How the inflation targeting system can deal with the economic effects of Brexit”, (first author, with Andrew McEvoy and Chengsi Zhang), Economic and Political Studies, 2019, 7(1), 1-34.   [**paper**](https://www.tandfonline.com/doi/abs/10.1080/20954816.2018.1558983?journalCode=reps20)
 
