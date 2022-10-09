@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-publications-论文发表"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-honors-and-awards-奖励"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-educations-教育经历"
