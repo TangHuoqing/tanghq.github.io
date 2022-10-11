@@ -24,7 +24,7 @@ redirect_from:
 
 
 # 🔥 News 状态更新 
-- *2022.10*: &nbsp;🎉🎉 诸事安好，求教职中。 
+- *2022.10*: 诸事安好，求教职中。 
 
 # 📝 Publications 论文发表 
 - “Investment risk, return gap, and financialization of non-listed non-financial firms in China”, (first author, with Chengsi Zhang), Pacific-Basin Finance Journal (SSCI), 2019, 58.   [**paper**](https://www.sciencedirect.com/science/article/pii/S0927538X19301313)
@@ -46,7 +46,7 @@ redirect_from:
 
 - “Does corporate governance influence firms’ entrusted loan and wealth management product investment?”, (with Chengsi Zhang and Zehao Liu).
 
-- “Monetary policy surprises and corporate investment in China”, (with Dong Lu and Chengsi Zhang).
+- “Monetary policy surprises and corporate real investment in China”, (with Dong Lu and Chengsi Zhang).
 
 - “贷款、企业现金流与宏观经济政策效果”，（与李博泰、刘泽豪）。
 
