@@ -29,7 +29,7 @@ redirect_from:
 # 📝 Publications 论文发表 
 - “Investment risk, return gap, and financialization of non-listed non-financial firms in China”, (first author, with Chengsi Zhang), Pacific-Basin Finance Journal (SSCI), 2019, 58.   [**paper**](https://www.sciencedirect.com/science/article/pii/S0927538X19301313)
 
-- “Monetary policy surprises and investment of non-listed real sector firms in China”, (first author, with Chengsi Zhang and Zou Hong), International Review of Economics and Finance (SSCI), 2022, 79(2022), 631-642.   [**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1059056022000302)
+- “Monetary policy surprises and investment of non-listed real sector firms in China”, (first author, with Chengsi Zhang and Zhou Hong), International Review of Economics and Finance (SSCI), 2022, 79(2022), 631-642.   [**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1059056022000302)
 
 - “货币政策冲击对实体企业投资选择影响的‘宿醉效应’”，（与张成思、陈贞竹），《金融研究》，2022，第9期（刊首文）。 [**paper**](http://www.jryj.org.cn/CN/abstract/abstract1090.shtml)
 
