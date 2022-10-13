@@ -31,7 +31,7 @@ redirect_from:
 
 - “Monetary policy surprises and investment of non-listed real sector firms in China”, (first author, with Chengsi Zhang and Zou Hong), International Review of Economics and Finance (SSCI), 2022, 79(2022), 631-642.   [**paper**](https://www.sciencedirect.com/science/article/abs/pii/S1059056022000302)
 
-- “货币政策冲击对实体企业投资选择影响的‘宿醉效应’”，（与张成思、陈贞竹），《金融研究》，2022，第9期（刊首文）。
+- “货币政策冲击对实体企业投资选择影响的‘宿醉效应’”，（与张成思、陈贞竹），《金融研究》，2022，第9期（刊首文）。 [**paper**](http://www.jryj.org.cn/CN/abstract/abstract1090.shtml)
 
 - “融资约束与实体企业金融化”，（与周弘、张成思），《管理科学学报》，2020，第12期。   [**paper**](http://jmsc.tju.edu.cn/jmsc/article/abstract/20201207?st=article_issue)
 
@@ -48,7 +48,7 @@ redirect_from:
 
 - “Monetary policy surprises and corporate real investment in China”, (with Dong Lu and Chengsi Zhang).
 
-- “贷款、企业现金流与宏观经济政策效果”，（与李博泰、刘泽豪）。
+- “现金流、企业贷款与宏观经济政策效果”，（与李博泰、刘泽豪）。
 
 # 🎖 Honors and Awards 奖励 
 - 研究生国家奖学金/北京市优秀毕业生. 
