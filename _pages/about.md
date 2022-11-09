@@ -44,7 +44,7 @@ redirect_from:
 # 📝 Working Papers 工作论文 
 - “Entrusted loans and Tunneling”, (with Yongqiang Chu, Zehao Liu, and Chengsi Zhang).
 
-- “Does corporate governance influence firms’ financialization?”, (with Chengsi Zhang and Zehao Liu).
+- “Corporate governance, moral hazard, and financialization”, (with Chengsi Zhang and Zehao Liu).
 
 - “Monetary policy surprises and corporate real investment in China”, (with Dong Lu and Chengsi Zhang).
 
